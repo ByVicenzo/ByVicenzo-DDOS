@@ -19,20 +19,20 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/gamkers/GAMKERS-DDOS.git
+$ git clone https://github.com/ByVicenzo/ByVicenzo-DDOS
 
-$ cd GAMKERS-DDOS
+$ cd VICENZO-DDOS
 
-$ chmod +x GAMKERS-DDOS.py
+$ chmod +x ByVicenzo-DDOS.py
 
-$ python2 GAMKERS-DDOS.py
+$ python2 ByVicenzo-DDOS.py
 
 
 To Run
 
-$ cd GAMKERS-DDOS
+$ cd VICENZO-DDOS
 
-$ python2 GAMKERS-DDOS.py
+$ python2 ByVicenzo-DDOS.py
 
 
 Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
