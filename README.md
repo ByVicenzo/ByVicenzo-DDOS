@@ -32,7 +32,7 @@ To Run
 
 $ cd VICENZO-DDOS
 
-$ python2 ByVicenzo-DDOS.py
+$ python2 ByVicenzo-DOS.py
 
 
 Your Tool Install & Setup Done!!..Now Go To Google & Search`Website IP Finder`Now Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
