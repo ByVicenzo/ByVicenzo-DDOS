@@ -25,7 +25,7 @@ $ cd VICENZO-DDOS
 
 $ chmod +x ByVicenzo-DDOS.py
 
-$ python2 ByVicenzo-DDOS.py
+$ python2 ByVicenzo-DOS.py
 
 
 To Run
